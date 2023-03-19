@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQQuerySyntax\workingWithLINQQuerySyntax\bin\Debug\net6.0\workingWithLINQQuerySyntax.exe
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQQuerySyntax\workingWithLINQQuerySyntax\bin\Debug\net6.0\workingWithLINQQuerySyntax.deps.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQQuerySyntax\workingWithLINQQuerySyntax\bin\Debug\net6.0\workingWithLINQQuerySyntax.runtimeconfig.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQQuerySyntax\workingWithLINQQuerySyntax\bin\Debug\net6.0\workingWithLINQQuerySyntax.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQQuerySyntax\workingWithLINQQuerySyntax\bin\Debug\net6.0\workingWithLINQQuerySyntax.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQQuerySyntax\workingWithLINQQuerySyntax\obj\Debug\net6.0\workingWithLINQQuerySyntax.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQQuerySyntax\workingWithLINQQuerySyntax\obj\Debug\net6.0\workingWithLINQQuerySyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQQuerySyntax\workingWithLINQQuerySyntax\obj\Debug\net6.0\workingWithLINQQuerySyntax.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQQuerySyntax\workingWithLINQQuerySyntax\obj\Debug\net6.0\workingWithLINQQuerySyntax.AssemblyInfo.cs
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQQuerySyntax\workingWithLINQQuerySyntax\obj\Debug\net6.0\workingWithLINQQuerySyntax.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQQuerySyntax\workingWithLINQQuerySyntax\obj\Debug\net6.0\workingWithLINQQuerySyntax.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQQuerySyntax\workingWithLINQQuerySyntax\obj\Debug\net6.0\refint\workingWithLINQQuerySyntax.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQQuerySyntax\workingWithLINQQuerySyntax\obj\Debug\net6.0\workingWithLINQQuerySyntax.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQQuerySyntax\workingWithLINQQuerySyntax\obj\Debug\net6.0\workingWithLINQQuerySyntax.genruntimeconfig.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment8\workingWithLINQQuerySyntax\workingWithLINQQuerySyntax\obj\Debug\net6.0\ref\workingWithLINQQuerySyntax.dll
